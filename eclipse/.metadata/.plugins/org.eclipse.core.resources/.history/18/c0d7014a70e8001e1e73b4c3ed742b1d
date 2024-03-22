@@ -1,0 +1,7 @@
+package com.example.examplemod.client.proxy;
+
+import com.example.examplemod.core.CommonProxy;
+
+public class ClientProxy extends CommonProxy {
+
+}

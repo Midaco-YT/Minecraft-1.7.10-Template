@@ -1,0 +1,5 @@
+package com.example.examplemod.core.registry;
+
+public class ItemsRegistry {
+
+}
